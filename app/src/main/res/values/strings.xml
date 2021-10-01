@@ -7,4 +7,5 @@
     <string name="name">Name</string>
     <string name="creat_account">Create Account</string>
     <string name="empty">EMPTY</string>
+    <string name="occupation">Occupation</string>
 </resources>
